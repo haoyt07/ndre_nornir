@@ -1,0 +1,10 @@
+---
+SG-AT1-SBB-R006-01:
+  hostname: 172.20.112.5
+  groups:
+    - SBB
+
+SG-AT2-SBB-R006-02:
+  hostname: 172.20.124.5
+  groups:
+    - SBB
