@@ -3,8 +3,26 @@ SG-AT1-SBB-R006-01:
   hostname: 172.20.112.5
   groups:
     - SBB
+  data:
+    idc: AT
 
 SG-AT2-SBB-R006-02:
   hostname: 172.20.124.5
   groups:
     - SBB
+  data:
+    idc: AT
+
+SG-CP1-SBB-R001-01:
+  hostname: 172.20.40.1
+  groups:
+    - SBB
+  data:
+    idc: CPL
+
+SG-CP1-SBB-R002-02:
+  hostname: 172.20.40.2
+  groups:
+    - SBB
+  data:
+    idc: CPL
